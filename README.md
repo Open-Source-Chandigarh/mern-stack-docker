@@ -43,4 +43,10 @@ Access the app using `http://localhost:3000`
 6. For it will open on a new tab on `port 3000`.
 7. Go to `http://localhost:3000` to see the application running.
 
-## Only login and register model is created yet. 
+## Note:
+
+Only login and register model is created yet. 
+
+## ToDoList
+
+- Improvement over the homepage
